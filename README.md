@@ -30,3 +30,8 @@ This Node js project can be embeded in any other website project to bring about 
  
  
  -Use the following as default credentials: `email:admin@admin.com` `password:admin123`
+ 
+ 
+ 
+ #### NB: This Authentication System can be embeded on most programming languages.
+ ####     Connect to your database for more best experience
