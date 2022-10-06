@@ -26,7 +26,7 @@ This Node js project can be embeded in any other website project to bring about 
  
  - Visit the link on your browser to access app.
  
- ![pic5](img5.jpg)
+ ![pic5](pic1.jpg)
  
  
  -Use the following as default credentials: `email:admin@admin.com` `password:admin123`
